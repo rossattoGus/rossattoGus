@@ -7,6 +7,7 @@ Bem vindo ao meu perfil. Meu nome é Gustavo Rossatto, sou apaixonado por aprend
 <br>
 
 ## 🧠 Sobre mim
+<br>
 Atualmente estudo Análise e Desenvolvimento de Sistemas, exploro assuntos complementares como Engenharia de Software, desenvolvimento de jogos e gosto bastante de pixel-art. Um detalhe bem importante é minha paixão por café! 💓☕
 <br>
 
