@@ -5,6 +5,7 @@
 <br>
 Bem vindo ao meu perfil. Meu nome é Gustavo Rossatto, sou apaixonado por aprender novos assuntos e novos desafios. Comecei a mergulhar na área de tecnologia pelos vídeo-games, mais especificamente no Dota 2. Desde então venho me interessando cada vez mais por como as máquinas funcionam. Gosto bastante de matemática e resolver problemas.
 <br>
+
 ## 🧠 Sobre mim
 Atualmente estudo Análise e Desenvolvimento de Sistemas, exploro assuntos complementares como Engenharia de Software, desenvolvimento de jogos e gosto bastante de pixel-art. Um detalhe bem importante é minha paixão por café! 💓☕
 <br>
