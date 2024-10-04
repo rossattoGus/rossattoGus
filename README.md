@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo *_Gustavo Rossatto Gonçalves_*, mas pode me chamar de *_Rossatto_*
+# 👋 Olá, me chamo *_Gustavo Rossatto Gonçalves_*
 <br>
 
 ## 🧙‍♂️ WhoAmI 
