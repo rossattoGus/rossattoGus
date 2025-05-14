@@ -23,9 +23,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor web com 
 
 ---
 
-<!-- Opcional -->
-## 📌 Repositórios em destaque
-
-🔸 Em breve, estarei publicando projetos pessoais e estudos em tempo real aqui.  
-🔸 Fique à vontade para explorar os repositórios e me mandar sugestões ou dúvidas!
-
